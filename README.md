@@ -21,3 +21,5 @@ At its core:
 - **NLTK (for text preprocessing)**
 
 ---
+
+![image](https://github.com/user-attachments/assets/3e313ce3-ee0a-4d73-8f5a-2f83255bc4b6)
